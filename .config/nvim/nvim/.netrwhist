@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/antonk/src/github/electronic-structure/SIRIUS/src/hamiltonian'
+let g:netrw_dirhist_4='/Users/antonk/src/github/electronic-structure/SIRIUS/src'
+let g:netrw_dirhist_3='/Users/antonk/src/github/electronic-structure/SIRIUS'
+let g:netrw_dirhist_2='/Users/antonk/src/github/electronic-structure/SIRIUS/apps'
+let g:netrw_dirhist_1='/Users/antonk/src/github/electronic-structure/SIRIUS/apps/tests'
+let g:netrw_dirhist_0='/Users/antonk/src/github/electronic-structure/SIRIUS/src/k_point'
+let g:netrw_dirhist_9='/Users/antonk/src/github/electronic-structure/SIRIUS/src'
+let g:netrw_dirhist_8='/Users/antonk/src/github/electronic-structure/SIRIUS/src/hamiltonian'
+let g:netrw_dirhist_7='/Users/antonk/src/github/electronic-structure/exciting/src'
+let g:netrw_dirhist_6='/Users/antonk/src/github/electronic-structure/exciting/src/src_mpi'
